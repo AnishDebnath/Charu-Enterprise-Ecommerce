@@ -2,8 +2,6 @@
 
 A modern, professional B2B e-commerce platform for Charu Enterprise, specializing in industrial fence fittings and hardware. Built with React, TypeScript, and Vite for optimal performance and developer experience.
 
-![Charu Enterprise](./assets/products/charu-logo.png)
-
 ## 🌟 Features
 
 ### Core Functionality
@@ -215,13 +213,6 @@ The application uses a consistent design system with:
 
 This project is proprietary software owned by Charu Enterprise.
 
-## 📞 Contact
-
-**Charu Enterprise**
-- Address: 2/49, Ashok Nagar, Regent Park, Kolkata, West Bengal 700040
-- Email: info@charuenterprise.com
-- Phone: +91-XXXXXXXXXX
-
 ## 🙏 Acknowledgments
 
 - Built with modern web technologies
@@ -233,4 +224,4 @@ This project is proprietary software owned by Charu Enterprise.
 
 **Version**: 1.0.0  
 **Last Updated**: January 2026  
-**Status**: Production Ready ✅
+**Status**: Preview Ready ✅
